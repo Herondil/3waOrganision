@@ -20,7 +20,7 @@ Nous avons la chance d'aller à la [PGW](https://www.parisgamesweek.com/) ! C'es
 - On se retrouve à **13h30** sur l'espace de restauration pour manger ensemble et se raconter la matinée.
 - On se sépare de nouveau pour aller découvrir ce qu'on a manqué le matin.
 - On se retrouve à **16h30** près de la sortie pour goûter/finir la journée.
-- Le salon fermant à **18h30**, les plus motivés peuvent profiter des dernières heures pour se promener encore un peu !
+- Le salon fermant ses portes à **18h30**, les plus motivés peuvent profiter des dernières heures pour se promener encore un peu !
 
 
 ## Semaines d'avancement sur les projets persos
