@@ -17,7 +17,8 @@ Nous avons la chance d'aller à la [PGW](https://www.parisgamesweek.com/) ! C'es
 
 - On se retrouve à **9h30** sur la place devant les portes, près de la sortie du métro/tram.
 - On se dirige tous vers l'espace des jeux français et on s'éparpille sur les différents stands.
-- On se retrouve à **13h30** sur l'espace de restauration pour manger ensemble et se raconter la matinée.
+- S'il y a des retardataires, ils nous écrivent comme ils peuvent (SMS/discord) et rejoingnent directement les stands.
+- On se retrouve tous à **13h30** sur l'espace de restauration pour manger ensemble et se raconter la matinée.
 - On se sépare de nouveau pour aller découvrir ce qu'on a manqué le matin.
 - On se retrouve à **16h30** près de la sortie pour goûter/finir la journée.
 - Le salon fermant ses portes à **18h30**, les plus motivés peuvent profiter des dernières heures pour se promener encore un peu !
