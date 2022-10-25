@@ -1,5 +1,6 @@
 # Organisation pour la suite des cours
 
+
 ## Sortie Paris Games Week
 
 Nous avons la chance d'aller à la [PGW](https://www.parisgamesweek.com/) ! C'est l'occasion de prendre contact concrètement avec le secteur, il y a un espace "Made In France" réservé aux entreprises plus modestes et aussi de nombreuses associations. L'objectif est de récupérer des cartes de visite, de découvrir certains projets et surtout d'échanger avec les professionels présents sur le salon.
