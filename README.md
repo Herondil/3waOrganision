@@ -13,7 +13,7 @@ Nous avons la chance d'aller à la [PGW](https://www.parisgamesweek.com/) ! C'es
 - Prévoir un repas ou de quoi en acheter un sur place. Il y aura des food trucks/sandwicheries (certainement chères).
 - L'entrée coûte 19€ et doit être réservée au plus tard la veille sur [la billeterie](https://www.parisgamesweek.com/Infos-pratiques/pgw2022-ouverture-de-la-billetterie).
 
-### Dérouelement de la journée
+### Déroulement de la journée
 
 - On se retrouve à **9h30** sur la place devant les portes, près de la sortie du métro/tram.
 - On se dirige tous vers l'espace des jeux français et on s'éparpille sur les différents stands.
