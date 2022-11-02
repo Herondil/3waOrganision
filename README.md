@@ -11,6 +11,9 @@ Nous avons la chance d'aller à la [PGW](https://www.parisgamesweek.com/) ! C'es
 - La sortie est prévue la journée du **jeudi 3 novembre 2022**.
 - Le salon à lieu à Paris, [Porte de Versailles](https://www.google.com/maps?ll=48.829792,2.286561&z=15&t=m&hl=fr&gl=FR&mapclient=embed&q=1+Pl.+de+la+Prte+de+Versailles+75015+Paris).
 - Prévoir un repas ou de quoi en acheter un sur place. Il y aura des food trucks/sandwicheries (certainement chères).
+- Avoir une gourde !
+- Avoir de bonnes chaussures confortables, on va marcher toute la journée ou presque !
+- Attention, le réseau téléphone et l'accès à internet ne sont pas garantis.
 - L'entrée coûte 19€ et doit être réservée au plus tard la veille sur [la billeterie](https://www.parisgamesweek.com/Infos-pratiques/pgw2022-ouverture-de-la-billetterie).
 
 ### Déroulement de la journée
