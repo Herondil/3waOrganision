@@ -41,6 +41,7 @@ Nous avons la chance d'aller à la [PGW](https://www.parisgamesweek.com/) ! C'es
 - Pour la semaine du 14/11 au 18/11 : 
   - Je viens tous les jours, mais le présentiel est facultatif sauf le 17
   - On garde l'organisation à distance de la semaine d'avant.
-  - Le 16, la journée est dédiée aux expérience et démos RV avec l'oculus quest 2
-- Pour le semaine du 21/11 et 22/11 :
+  - Le 16, la journée est dédiée aux expériences et démos RV avec l'oculus quest 2
+  - le 17 on se retrouve tous pour s'aider et partager notre travail. 
+- Pour la semaine du 21/11 et 22/11 :
   - Journées à distance comme du 7 au 11
