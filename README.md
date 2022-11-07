@@ -36,7 +36,7 @@ Nous avons la chance d'aller à la [PGW](https://www.parisgamesweek.com/) ! C'es
     - Ensuite, je reste disponible pour les questions/blocages posées sur discord. Elle seront traitées en live pour ceux qui seront intéressés.
     - On se retrouve au retour du repas pour savoir si la matinée s'est bien passée.
     - On se laisse en vocal sur zoom à la fin de la journée
-  - Le 10/11 :
+  - Le 09/11 :
     - Présentiel "facultatif" : je viens à Versailles et vous pouvez venir pour échanger autour de l'avancement du projet, sinon la journée se déroule comme décrit au dessus.
 - Pour la semaine du 14/11 au 18/11 : 
   - Je viens tous les jours, mais le présentiel est facultatif sauf le 17
