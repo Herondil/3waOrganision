@@ -29,7 +29,7 @@ Nous avons la chance d'aller à la [PGW](https://www.parisgamesweek.com/) ! C'es
 
 ## Semaines d'avancement sur les projets persos
 
-- Pour la semaine du 7/11 au 11/11 :
+- Pour la semaine du 7/11 au 10/11 :
   - Semaine à distance avec l'organisation suivante :
     - Rendez-vous sur zoom à 9h30.
     - On fait un tour de table pour annoncer ce qu'on fait dans la journée.
