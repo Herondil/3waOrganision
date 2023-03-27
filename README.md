@@ -18,7 +18,7 @@ L'avant-dernière Milestone est donnée plus un conseil, je recommande fortement
 ## Organisation des journées de cours
 
 - Les **05/04** et du **11/04** sont en présentiel.
-- Le **31/03**, tout le monde rend son badge à Anne-Michèle
+- Le **30/03**, tout le monde rend son badge à Anne-Michèle
 - À partir du **03/04** inclus, le cours passe en *présentiel facultatif* ! Nous serons "officiellement" à distance, avec zoom et discord d'activés, mais je serai à l'école et tout le monde est invité à venir. Les dates du **05/04** et du **11/04** sont elles bien en présentiel.
 - L'après-midi du **12/04**, on passera la certification blanche.
 
