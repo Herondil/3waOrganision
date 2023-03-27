@@ -9,7 +9,7 @@ C'est parti ! Pour organiser tout ça, je vous proposer de découper l'organisat
 
 - **30/03** : Première session de tests entre nous !
 - **05/04** : Seconde session de tests entre nous, peut-être avec une personne ou deux extérieures à la classe.
-- **11/04** : Dernière session de tests ! Avec les retours des anciens élèves.
+- **11/04** : Dernière session de tests ! Avec les retours des anciens élèves, et peut-être ceux d'un serveur discord de joueurs ?
 - **Quelques jours avant la soutenance** : Test du build à présenter.
 - **02/06** : C'est la soutenance !
 
@@ -20,6 +20,7 @@ L'avant-dernière Milestone est donnée plus un conseil, je recommande fortement
 - Les **05/04** et du **11/04** sont en présentiel.
 - Le **31/03**, tout le monde rend son badge à Anne-Michèle
 - À partir du **03/04** inclus, le cours passe en *présentiel facultatif* ! Nous serons "officiellement" à distance, avec zoom et discord d'activés, mais je serai à l'école et tout le monde est invité à venir. Les dates du **05/04** et du **11/04** sont elles bien en présentiel.
+- L'après-midi du **12/04**, on passera la certification blanche.
 
 
 ## Déroulement de la journée à partir du **03/04**
