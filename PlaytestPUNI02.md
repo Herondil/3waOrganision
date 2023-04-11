@@ -4,4 +4,4 @@ Par ici pour les playtests, n'oubliez pas de lire de le README et de poster vos 
 
 
 1. [DoomPortal](https://github.com/bigyaya/DoomPortal) ! #FPS
-2. [Projet2](https://github.com/Watunip/MyGame) ! #chasse
+2. [Projet2](https://github.com/Watunip/MyGame) ! #nature
