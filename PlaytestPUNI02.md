@@ -1,6 +1,6 @@
 # Playtest des prototypes des jeux de la formation PUNI02
 
-Par ici pour les playtests, n'oubliez pas de lire de le README !
+Par ici pour les playtests, n'oubliez pas de lire de le README et de poster vos retours !
 
 
 1. [Projet](duckduckgo.com) A venir dans les prochaines minutes !
