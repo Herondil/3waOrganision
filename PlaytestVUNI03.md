@@ -7,3 +7,4 @@ Par ici pour les playtests, n'oubliez pas de lire de le README et de poster vos 
 2. [Door of Confusion](https://berdemata.itch.io/proto-final-02) ! #énigme
 3. [Ninja Office](https://darthlemonade.itch.io/ninja-office) ! #capitalisme
 4. [Killed And Loved](https://play.unity.com/mg/other/webgl-builds-387993) #novel
+5. [Castle Knight](https://marleyknx.itch.io/castle-knight) #hollowknight
