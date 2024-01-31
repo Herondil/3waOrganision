@@ -4,4 +4,5 @@ Par ici pour les playtests, n'oubliez pas de lire de le README et de poster vos 
 
 
 1. [Run and Jump](https://github.com/3WAPierre93/FinalProject/tree/main) ! #2D
-2. [Door of Confusion](https://github.com/3WAPierre93/FinalProject/tree/main) ! #énigme
+2. [Door of Confusion](https://berdemata.itch.io/proto-final-02) ! #énigme
+3. [Ninja Office](https://darthlemonade.itch.io/ninja-office) ! #capitalisme
